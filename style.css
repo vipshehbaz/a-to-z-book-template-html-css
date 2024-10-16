@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #f7f7f7;
+}
+
+.atoz {
+    color: blueviolet;
+    text-align: center;
+    justify-content: center;
+    margin: 50px 400px 50px 400px;
+    font-size: 100px;
+
+}
+
+input:hover{
+background-color: red;
+}
+
+
+
+.box {
+    background-color: #fff;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+
+}
+
+.as {
+    display: inline;
+    font-size: 80px;
+    margin-right: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.a {
+    display: inline;
+}
+
+div img {
+    display: inline;
+    height: 200px;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.alphabates a {
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+}
+
+div p {
+    margin-right: 20px;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 12px;
+    font-family: PoppinsMedium;
+    padding: 10px;
+
+
+
+}
+
+input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #000;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.table {
+    border: 5px solid rgb(79, 72, 72);
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+
+
+table {
+
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+.action {
+    margin: 200px;
+}
+
+.alpha {
+    text-align: center;
+}
+
+
+.alpha A {
+    text-decoration: none;
+    width: 100%;
+    margin-bottom: 60px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    color: blueviolet;
+}
+
+.bottomtotop {
+    background-color: #000 solid black;
+}
+
+
+.go {
+    text-align: right;
+    padding: 30px;
+    margin-left: 850px;
+    border: #f7f7f7;
+    box-shadow: 2 solid black;
+}
+
+.go a {
+    text-decoration: none;
+}
